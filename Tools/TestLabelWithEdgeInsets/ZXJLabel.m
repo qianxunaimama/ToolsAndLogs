@@ -9,7 +9,6 @@
 #import "ZXJLabel.h"
 
 @implementation ZXJLabel{
-
     UIEdgeInsets _insets;
 }
 
